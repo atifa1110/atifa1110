@@ -13,10 +13,6 @@ I'm a passionate Android developer with hands-on experience in creating responsi
 - **Testing:** JUnit, Mockito, Espresso
 - **Tools:** Git, Android Studio, Proguard, Detekt
 
-### 🚀 Projects
-- **E-commerce App**: Built with Kotlin, Jetpack Compose, Firebase, MVVM Architecture, and a host of libraries for dependency injection, navigation, and API handling. [🔗 View Repo](#)
-- **Restaurant App**: Flutter-based app using Drift database for local storage and Hive for a favorite feature. [🔗 View Repo](#)
-
 ### 💡 What I’m Up To
 - Working on a Flutter project that uses Drift and Hive for local storage and exploring multiplatform capabilities with Flutter.
 - Implementing Firebase authentication and error handling in Kotlin with Jetpack Compose.
