@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Atifa Fiorenza
 
-#### Android Developer | Flutter Enthusiast | Mobile App Developer
+#### Android Developer | Flutter Enthusiast | Mobile App Developer 
 
 I'm a passionate Android developer with hands-on experience in creating responsive and engaging mobile applications. My focus is on leveraging modern technologies and best practices to build seamless user experiences. I'm currently diving into multiplatform development with Flutter to expand my reach across platforms.
 
@@ -26,14 +26,13 @@ I'm a passionate Android developer with hands-on experience in creating responsi
 
 ### 📬 Get in Touch
 - [LinkedIn](#)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:atifafiorenza24@gmail.com)
 
 ---
 
 ### Fun Facts
 - 📚 Recent reads include *How to Love* and *Welcome Home*, which helped me reflect on personal growth and self-acceptance.
 - 💪 I’m on a fitness journey and learning about glucose health.
-- 🛍️ I prefer discovering cool places over hiking, like Goto Mall in Seoul!
 
 ---
 
