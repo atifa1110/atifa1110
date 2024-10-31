@@ -7,7 +7,7 @@ I'm a passionate Android developer with hands-on experience in creating responsi
 ---
 
 ### 🛠️ My Tech Stack
-- **Languages:** Java, Kotlin, Dart
+- **Languages:** Java, Kotlin, Dart, HTML, Javascript
 - **Android:** Jetpack Compose, Coroutine, LiveData, Flow, Hilt, Material Design
 - **Backend & Database:** Firebase (Auth, Crashlytics, Analytics), Retrofit, Room, Hive, Drift
 - **Testing:** JUnit, Mockito, Espresso
