@@ -26,10 +26,4 @@ I'm a passionate Android developer with hands-on experience in creating responsi
 
 ---
 
-### Fun Facts
-- 📚 Recent reads include *How to Love* and *Welcome Home*, which helped me reflect on personal growth and self-acceptance.
-- 💪 I’m on a fitness journey and learning about glucose health.
-
----
-
 🌱 **"Always learning, always growing"** – Let’s connect and explore the endless possibilities of mobile development!
